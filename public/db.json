@@ -1,0 +1,124 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://cdn6.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//15079ccf-5ef9-4adb-a857-ac3300f3248b.jpg",
+      "name": "Дьябло",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 120,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://cdn3.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//2bf77d7c-e284-4609-b661-ac5500b3a058.jpg",
+      "name": "Неаполь",
+      "types": [0, 1],
+      "sizes": [26, 40],
+      "price": 150,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://cdn0.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//e0333de4-0917-43e3-9139-ac5500b3be7c.jpg",
+      "name": "Мафія",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 130,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cdn6.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//d68d8ebb-602d-4f15-bc26-ac5500b3ff76.jpg",
+      "name": "Тропікана",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 170,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://cdn9.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//d086b9fe-7b15-4389-8512-ac5500b41e32.jpg",
+      "name": "Гаваї",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 115,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://cdn6.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//4eb18874-b27e-4181-8653-ac5500b43a84.jpg",
+      "name": "Імперія",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 195,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://cdn0.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//374b6199-fa29-416f-b0e0-ac5500b6d6e7.jpg",
+      "name": "Салямі чіз",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 250,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://cdn5.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//a317cb8d-df01-4a60-a7fc-ac5500b712e3.jpg",
+      "name": "Чотири сира",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 225,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://cdn4.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//03cd72b7-1ddf-4e6f-8e4e-ac5500b73c1d.jpg",
+      "name": "Верона",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 160,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://cdn6.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//e5e97d24-7750-4f1f-8088-ac5500b76aed.jpg",
+      "name": "Амерекана",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 200,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://cdn6.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//120f9bb6-cb7a-4d48-8a4b-ac5500b79b8d.jpg",
+      "name": "Гриль делюкс",
+      "types": [0, 1],
+      "sizes": [26, 40],
+      "price": 240,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://cdn2.arora.pro/f/upload/scale/270/0/2/f81d1064-1337-4bbf-a894-909133be0aa2/size-1//61f9874c-222c-4f9d-9012-ac5500b7dae2.jpg",
+      "name": "Супер салямі",
+      "types": [0, 1],
+      "sizes": [26,30, 40],
+      "price": 115,
+      "category": 5,
+      "rating": 5
+    }
+  ]
+}
