@@ -1,8 +1,8 @@
-@import 'fonts';
-@import 'variables';
-@import 'libs/normalize';
+@import "fonts";
+@import "variables";
+@import "libs/normalize";
 
-@import 'components/all';
+@import "components/all";
 
 body {
   background-color: $background;
@@ -406,7 +406,7 @@ body {
 
   &--empty {
     margin: 0 auto;
-    width: 560px;
+    max-width: 560px;
     text-align: center;
 
     h2 {
